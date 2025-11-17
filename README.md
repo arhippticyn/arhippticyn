@@ -59,7 +59,7 @@
 
 ---
 
-### [Weather Dashboard](https://portfolio-kappa-smoky-54.vercel.app](https://arhippticyn.github.io/WeatherDashboard/)  
+### [Weather Dashboard](https://arhippticyn.github.io/WeatherDashboard/)  
 Weather Dashboard is a convenient tool that quickly provides up-to-date weather information for any region. It helps you plan daily activities, trips, or outdoor work, keeping you prepared for any conditions.React, SCSS, API, node.js 
 [🔗 Live](https://portfolio-kappa-smoky-54.vercel.app](https://arhippticyn.github.io/WeatherDashboard/) • [📁 Code](https://github.com/bcheban/portfolio](https://github.com/arhippticyn/WeatherDashboard.git)
 
